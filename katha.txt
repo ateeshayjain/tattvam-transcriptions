@@ -1,7 +1,7 @@
 # sa.wikisource — कठोपनिषत्
 # Source: https://sa.wikisource.org/wiki/कठोपनिषत्
 # Licence: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-# Changes by Tattvam: Divided into numbered verses for display.
+# Changes by Tattvam: Divided into numbered verses for display. The invocation and chapter colophons are omitted.
 
 ## 1. प्रथमा वल्ली
 [1.1]

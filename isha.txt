@@ -1,7 +1,7 @@
 # sa.wikisource — ईशावास्‍योपनिषद्
 # Source: https://sa.wikisource.org/wiki/ईशावास्‍योपनिषद्
 # Licence: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-# Changes by Tattvam: Divided into numbered verses for display.
+# Changes by Tattvam: Divided into numbered verses for display. The opening invocation (pūrṇam adaḥ) and peace lines are omitted.
 
 ## 1. ईशोपनिषत्
 [1.1]

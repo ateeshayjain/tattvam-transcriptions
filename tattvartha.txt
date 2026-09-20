@@ -1,7 +1,7 @@
 # sa.wikisource — तत्त्वार्थसूत्रम् (Digambara recension)
 # Source: https://sa.wikisource.org/wiki/तत्त्वार्थसूत्रम्
 # Licence: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-# Changes by Tattvam: Divided into numbered verses for display. Chapter 8 realigned with its translation (2026-08-18).
+# Changes by Tattvam: Divided into numbered verses for display. Sūtras 3.27–29 are supplied from the Digambara text printed in Sacred Books of the Jainas II; the chapter 7 heading and colophon are omitted; chapter 8 de-duplicated and realigned with its translation (2026-08-18).
 
 ## 1. Knowledge
 [1.1]

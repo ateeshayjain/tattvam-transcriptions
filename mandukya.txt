@@ -1,7 +1,7 @@
 # sa.wikisource — माण्डुक्योपनिषद् (three typos corrected against the Śaṅkara-bhāṣya text)
 # Source: https://sa.wikisource.org/wiki/माण्डुक्योपनिषद्
 # Licence: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-# Changes by Tattvam: Divided into numbered verses for display. Three typographical errors corrected against the Śaṅkara-bhāṣya text.
+# Changes by Tattvam: Divided into numbered verses for display. The peace invocation and frame lines are omitted; three typographical errors corrected against the Śaṅkara-bhāṣya text.
 
 ## 1. माण्डूक्योपनिषत्
 [1.1]

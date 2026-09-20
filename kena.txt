@@ -1,7 +1,7 @@
 # sa.wikisource — केनोपनिषद्
 # Source: https://sa.wikisource.org/wiki/केनोपनिषद्
 # Licence: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-# Changes by Tattvam: Divided into numbered verses for display.
+# Changes by Tattvam: Divided into numbered verses for display. The opening and closing peace invocations and the section frame lines are omitted.
 
 ## 1. प्रथमः खण्डः
 [1.1]

@@ -1,7 +1,7 @@
 # sa.wikisource — योगसूत्रम् (sūtrapāṭha, without bhāṣya)
 # Source: https://sa.wikisource.org/wiki/योगसूत्रम्
 # Licence: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-# Changes by Tattvam: Divided into numbered verses for display.
+# Changes by Tattvam: Divided into numbered verses for display. Sūtra 1.15 is supplied from another Wikisource page, योगसूत्राणि (भाष्यसहितम्).
 
 ## 1. समाधिपादः
 [1.1]
