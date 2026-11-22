@@ -1,7 +1,7 @@
-# sa.wikisource — हृदयसूत्रम् (smaller recension; typos — not readings — corrected against Müller's Devanagari edition, Anecdota Oxoniensia I.iii, 1884)
+# sa.wikisource — हृदयसूत्रम् (smaller recension)
 # Source: https://sa.wikisource.org/wiki/हृदयसूत्रम्
 # Licence: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-# Changes by Tattvam: Divided into traditional sense-units for display. Typographical errors — not readings — corrected against Müller's Devanagari edition (Anecdota Oxoniensia I.iii, 1884).
+# Changes by Tattvam: Divided into traditional sense-units for display. Typographical errors — not readings — corrected against Müller's Devanagari edition (Anecdota Oxoniensia I.iii, 1884). Readings are left as Wikisource has them, so the Sanskrit can differ from the text Müller translated: in unit 10 it reads a-cittāvaraṇaḥ where his English follows cittāvaraṇa (see the note there).
 
 ## 1. The Heart of the Perfection of Wisdom
 [1.1]

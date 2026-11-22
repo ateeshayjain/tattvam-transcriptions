@@ -1,7 +1,7 @@
 # sa.wikisource — केनोपनिषद्
 # Source: https://sa.wikisource.org/wiki/केनोपनिषद्
 # Licence: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-# Changes by Tattvam: Divided into numbered verses for display. The opening and closing peace invocations and the section frame lines are omitted.
+# Changes by Tattvam: Divided into numbered verses for display. The opening and closing peace invocations and the section frame lines are omitted. In verse 4.4 a footnote that leaked into the Devanagari line from the Wikisource page is removed and the space restored. Müller's English of 3.1 already carries the gods' thought 'this victory is ours only', so its Sanskrit clause `त ऐक्षन्तास्माकमेवायं विजयोऽस्माकमेवायं महिमेति` is moved from the head of 3.2 to the end of 3.1.
 
 ## 1. प्रथमः खण्डः
 [1.1]
@@ -72,9 +72,9 @@
 [3.1]
 ब्रह्म ह देवेभ्यो विजिग्ये तस्य ह ब्रह्मणो
 विजये देवा अमहीयन्त
+त ऐक्षन्तास्माकमेवायं विजयोऽस्माकमेवायं महिमेति ।
 
 [3.2]
-त ऐक्षन्तास्माकमेवायं विजयोऽस्माकमेवायं महिमेति ।
 तद्धैषां विजज्ञौ तेभ्यो ह प्रादुर्बभूव तन्न व्यजानत
 किमिदं यक्षमिति
 
@@ -134,7 +134,7 @@
 सह्येनन्नेदिष्ठं पस्पर्श स ह्येनत्प्रथमो विदाञ्चकार ब्रह्मेति
 
 [4.4]
-तस्यैष आदेशो यदेतद्विद्युतो व्यद्युतदा३footnoteExtra `aa'kaar is used in the sense of comparisonइतीन् न्यमीमिषदा३
+तस्यैष आदेशो यदेतद्विद्युतो व्यद्युतदा३ इतीन् न्यमीमिषदा३
 इत्यधिदैवतम्
 
 [4.5]

@@ -1,7 +1,7 @@
 # sa.wikisource — ईशावास्‍योपनिषद्
 # Source: https://sa.wikisource.org/wiki/ईशावास्‍योपनिषद्
 # Licence: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-# Changes by Tattvam: Divided into numbered verses for display. The opening invocation (pūrṇam adaḥ) and peace lines are omitted.
+# Changes by Tattvam: Divided into numbered verses for display. The opening invocation (pūrṇam adaḥ) and peace lines are omitted. In verse 8 a missing space is restored (स्वयम्भूः याथातथ्यतः…).
 
 ## 1. ईशोपनिषत्
 [1.1]
@@ -34,7 +34,7 @@
 
 [1.8]
 स पर्यगाच्छुक्रमकायमव्रणम् अस्नाविरँ शुद्धमपापविद्धम् ।
-कविर्मनीषी परिभूः स्वयम्भूःयाथातथ्यतोऽर्थान् व्यदधाच्छाश्वतीभ्यः समाभ्यः
+कविर्मनीषी परिभूः स्वयम्भूः याथातथ्यतोऽर्थान् व्यदधाच्छाश्वतीभ्यः समाभ्यः
 
 [1.9]
 अन्धं तमः प्रविशन्ति येऽविद्यामुपासते ।

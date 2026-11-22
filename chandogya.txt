@@ -1,7 +1,7 @@
 # sa.wikisource — छान्दोग्योपनिषद् (अध्यायः १–८)
 # Source: https://sa.wikisource.org/wiki/छान्दोग्योपनिषद्
 # Licence: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-# Changes by Tattvam: Divided into numbered verses for display. Sections are numbered by position (the source misprints two numerals, 2.3.1 and 6.6.5). The opening index and peace invocation and the closing invocation and colophon are omitted. The Sāmavedic anusvāra ꣳ (U+A8F3), which common fonts cannot display, is printed as ं throughout (325 places). Four typographical errors corrected against GRETIL: a duplicated word at 3.13.7 and stray virāmas at 3.9.4, 6.12.3 and 7.24.1.
+# Changes by Tattvam: Divided into numbered verses for display. Sections are numbered by position (the source misprints two numerals, 2.3.1 and 6.6.5). The opening index and peace invocation and the closing invocation and colophon are omitted. The Sāmavedic anusvāra ꣳ (U+A8F3), which common fonts cannot display, is printed as ं throughout (325 places). Four typographical errors corrected against GRETIL: a duplicated word at 3.13.7 and stray virāmas at 3.9.4, 6.12.3 and 7.24.1. Two further source typos corrected after the 2026-11-17 audit: 5.22.2 (the truncated यत्किञ् completed to यत्किञ्च, as in the four parallel passages 5.19.2–5.23.2) and 3.17.6 (stray virāma, घोर्→घोर), both read on sa.wikisource and confirmed against GRETIL.
 
 ## 1. Prapāṭhaka 1 · Khaṇḍa 1
 [1.1]
@@ -871,7 +871,7 @@
 तस्मादाहुः सोष्यत्यसोष्टेति पुनरुत्पादनमेवास्य तन्मरणमेवास्यावभृथः
 
 [54.6]
-तद्धैतद्घोर् आङ्गिरसः कृष्णाय देवकीपुत्रायोक्त्वोवाचापिपास एव स बभूव सोऽन्तवेलायामेतत्त्रयं प्रतिपद्येताक्षितमस्यच्युतमसि प्राणसंशितमसीति तत्रैते द्वे ऋचौ भवतः
+तद्धैतद्घोर आङ्गिरसः कृष्णाय देवकीपुत्रायोक्त्वोवाचापिपास एव स बभूव सोऽन्तवेलायामेतत्त्रयं प्रतिपद्येताक्षितमस्यच्युतमसि प्राणसंशितमसीति तत्रैते द्वे ऋचौ भवतः
 
 [54.7]
 आदित्प्रत्नस्य रेतसः ।
@@ -1430,7 +1430,7 @@
 अथ यां चतुर्थीं जुहुयात्तां जुहुयात्समानाय स्वाहेति समानस्तृप्यति
 
 [95.2]
-समाने तृप्यति मनस्तृप्यति मनसि तृप्यति पर्जन्यस्तृप्यति पर्जन्ये तृप्यति विद्युत्तृप्यति विद्युति तृप्यन्त्यां यत्किञ् विद्युच्च पर्जन्यश्चाधितिष्ठतस्तत्तृप्यति तस्यानु तृप्तिं तृप्यति प्रजया पशुभिरन्नाद्येन तेजसा ब्रह्मवर्चसेनेति
+समाने तृप्यति मनस्तृप्यति मनसि तृप्यति पर्जन्यस्तृप्यति पर्जन्ये तृप्यति विद्युत्तृप्यति विद्युति तृप्यन्त्यां यत्किञ्च विद्युच्च पर्जन्यश्चाधितिष्ठतस्तत्तृप्यति तस्यानु तृप्तिं तृप्यति प्रजया पशुभिरन्नाद्येन तेजसा ब्रह्मवर्चसेनेति
 
 ## 96. Prapāṭhaka 5 · Khaṇḍa 23
 [96.1]
