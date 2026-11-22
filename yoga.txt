@@ -1,7 +1,7 @@
 # sa.wikisource — योगसूत्रम् (sūtrapāṭha, without bhāṣya)
 # Source: https://sa.wikisource.org/wiki/योगसूत्रम्
 # Licence: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-# Changes by Tattvam: Divided into numbered verses for display. Sūtra 1.15 is supplied from another Wikisource page, योगसूत्राणि (भाष्यसहितम्). Two errors that are on Wikisource itself are corrected to the standard sūtrapāṭha (and the English, which is singular): 1.9 विकल्पाः → विकल्पः, and 1.48 र्तंभरा → ऋतम्भरा. Stray full stops and commas inside sūtras (16), double spaces and some run-together words are cleaned, and उपेक्षणां → उपेक्षाणां (1.33). The English is proofread against the 1912 New York printing it follows (Quarterly Book Department; archive.org yogasutrasofpata00pata_0): letters and words damaged in the Wikisource transcription are restored, nothing retranslated.
+# Changes by Tattvam: Divided into numbered verses for display. Sūtra 1.15 is supplied from another Wikisource page, योगसूत्राणि (भाष्यसहितम्). Two errors that are on Wikisource itself are corrected to the standard sūtrapāṭha (and the English, which is singular): 1.9 विकल्पाः → विकल्पः, and 1.48 र्तंभरा → ऋतम्भरा. Stray full stops and commas inside sūtras (16), double spaces and some run-together words are cleaned, and उपेक्षणां → उपेक्षाणां (1.33). The English is proofread against the 1912 New York printing it follows (Quarterly Book Department; archive.org yogasutrasofpata00pata_0): letters and words damaged in the Wikisource transcription are restored, nothing retranslated. Four places restored to the sūtrapāṭha as printed (Ānandāśrama Sanskrit Series 47, 1919, and Rāma Prasād, 1912): 3.18, 4.17, 4.24 and 4.32.
 
 ## 1. समाधिपादः
 [1.1]
@@ -376,7 +376,7 @@
 शब्दार्थप्रत्ययानां इतरेतराध्यासात्संकरः तत्प्रविभागसंयमात्सर्वभूतरुतज्ञानं
 
 [3.18]
-संस्कारसाक्षत्करणात्पूर्वजातिज्ञानं
+संस्कारसाक्षात्करणात्पूर्वजातिज्ञानं
 
 [3.19]
 प्रत्ययस्य परचित्तज्ञानं
@@ -539,7 +539,7 @@
 न चैकचित्ततन्त्रं वस्तु तदप्रमाणकं तदा किं स्यात्
 
 [4.17]
-तदुपरागापेक्षत्वात् चित्तस्य वस्तु ज्ञाताज्ञातं
+तदुपरागापेक्षित्वात् चित्तस्य वस्तु ज्ञाताज्ञातं
 
 [4.18]
 सदा ज्ञाताश्चित्तवृत्तयस् तत्प्रभोः पुरुषस्यापरिणामित्वात्
@@ -560,7 +560,7 @@
 द्रष्टृदृश्योपरक्तं चित्तं सर्वार्थं
 
 [4.24]
-तदसंख्येयवासनाचित्रं अपि परार्थं संहत्यकारित्वात्
+तदसंख्येयवासनाभिश्चित्रं अपि परार्थं संहत्यकारित्वात्
 
 [4.25]
 विशेषदर्शिन आत्मभावभावनाविनिवृत्तिः
@@ -584,7 +584,7 @@
 तदा सर्वावरणमलापेतस्य ज्ञानस्यानन्त्याज्ज्ञेयं अल्पं
 
 [4.32]
-ततः कृतार्थानां परिणामक्रमपरिसमाप्तिर् गुणानां
+ततः कृतार्थानां परिणामक्रमसमाप्तिर् गुणानां
 
 [4.33]
 क्षणप्रतियोगी परिणामापरान्तनिर्ग्राह्यः क्रमः

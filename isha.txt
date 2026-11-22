@@ -1,12 +1,12 @@
 # sa.wikisource — ईशावास्‍योपनिषद्
 # Source: https://sa.wikisource.org/wiki/ईशावास्‍योपनिषद्
 # Licence: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-# Changes by Tattvam: Divided into numbered verses for display. The opening invocation (pūrṇam adaḥ) and peace lines are omitted. In verse 8 a missing space is restored (स्वयम्भूः याथातथ्यतः…).
+# Changes by Tattvam: Divided into numbered verses for display. The opening invocation (pūrṇam adaḥ) and peace lines are omitted. Three sandhi slips restored to Roer's 1850 text (Bibliotheca Indica vol. VIII) at 1.1, 1.8 and 1.16.
 
 ## 1. ईशोपनिषत्
 [1.1]
 ॐ ईशावास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्।
-तेन त्यक्तेन भुञ्जीथाः मा गृधः कस्यस्विद्धनम्
+तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्
 
 [1.2]
 कुर्वन्नेवेह कर्माणि जिजीविषेच्छतँ समाः।
@@ -34,7 +34,7 @@
 
 [1.8]
 स पर्यगाच्छुक्रमकायमव्रणम् अस्नाविरँ शुद्धमपापविद्धम् ।
-कविर्मनीषी परिभूः स्वयम्भूः याथातथ्यतोऽर्थान् व्यदधाच्छाश्वतीभ्यः समाभ्यः
+कविर्मनीषी परिभूः स्वयम्भूर्याथातथ्यतोऽर्थान् व्यदधाच्छाश्वतीभ्यः समाभ्यः
 
 [1.9]
 अन्धं तमः प्रविशन्ति येऽविद्यामुपासते ।
@@ -66,7 +66,7 @@
 
 [1.16]
 पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मीन् समूह ।
-तेजः यत्ते रूपं कल्याणतमं तत्ते पश्यामि योऽसावसौ पुरुषः सोऽहमस्मि
+तेजो यत्ते रूपं कल्याणतमं तत्ते पश्यामि योऽसावसौ पुरुषः सोऽहमस्मि
 
 [1.17]
 वायुरनिलममृतमथेदं भस्मांतँ शरीरम् ।
