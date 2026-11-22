@@ -1,7 +1,7 @@
 # ta.wikisource — திருக்குறள், மூலம்
 # Source: https://ta.wikisource.org/wiki/திருக்குறள்
 # Licence: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-# Changes by Tattvam: Divided into numbered verses for display. After the 2026-11-17 audit: the section heading பாயிரம் removed from kuṟaḷ 1 (it heads the chapter on ta.wikisource); missing final stops added to kuṟaḷ 96, 140, 335, 386, 462, 555, 575, 833, 927, 1002 and 1095; the chapter-114 subtitle நானுத்→நாணுத் and a stray stop in the chapter-110 subtitle corrected. Left as transcribed, pending a Tamil reader: kuṟaḷ 51 (மனைக்தக்க), 784 (மேற்செனறு) and 434 (த்ரூஉம்), which carry the same slip in Project Madurai and ta.wikisource.
+# Changes by Tattvam: Divided into numbered verses for display. After the 2026-11-17 audit: the section heading பாயிரம் removed from kuṟaḷ 1 (it heads the chapter on ta.wikisource); missing final stops added to kuṟaḷ 96, 140, 335, 386, 462, 555, 575, 833, 927, 1002 and 1095; the chapter-114 subtitle நானுத்→நாணுத் and a stray stop in the chapter-110 subtitle corrected. Three slips that ta.wikisource shares with Project Madurai corrected: kuṟaḷ 51 மனைக்தக்க → மனைத்தக்க and 434 த்ரூஉம் → தரூஉம், as in G. U. Pope's The 'Sacred' Kurral (1886); 784 மேற்செனறு → மேற்சென்று, the missing pulli restored as in the 1919 Madras print with Parimēlaḻakar's commentary (Pope prints சே there; not followed).
 
 ## 1. In Praise of the Lord
 [1.1]
@@ -210,7 +210,7 @@
 
 ## 6. The Blessings of a Good Helpmate
 [6.51]
-மனைக்தக்க மாண்புடையள் ஆகித்தற் கொண்டான்
+மனைத்தக்க மாண்புடையள் ஆகித்தற் கொண்டான்
 வளத்தக்காள் வாழ்க்கைத் துணை.
 
 [6.52]
@@ -1781,7 +1781,7 @@
 
 [44.434]
 குற்றமே காக்க பொருளாகக் குற்றமே
-அற்றந் த்ரூஉம் பகை.
+அற்றந் தரூஉம் பகை.
 
 [44.435]
 வருமுன்னர்க் காவாதான் வாழ்க்கை எரிமுன்னர்
@@ -3216,7 +3216,7 @@
 
 [79.784]
 நகுதற் பொருட்டன்று நட்டல் மிகுதிக்கண்
-மேற்செனறு இடித்தற் பொருட்டு.
+மேற்சென்று இடித்தற் பொருட்டு.
 
 [79.785]
 புணர்ச்சி பழகுதல் வேண்டா உணர்ச்சிதான்
@@ -4431,7 +4431,7 @@
 எற்றிற் குரியர் கயவரொன்று உற்றக்கால்
 விற்றற்கு உரியர் விரைந்து.
 
-## 109. The Wound That Beauty Inflicteth He
+## 109. The Wound That Beauty Inflicteth
 [109.1081]
 அணங்குகொல் ஆய்மயில் கொல்லோ கனங்குழை
 மாதர்கொல் மாலும்என் நெஞ்சு.
@@ -4472,7 +4472,7 @@
 உண்டார்கண் அல்லது அடுநறாக் காமம்போல்
 கண்டார் மகிழ்செய்தல் இன்று.
 
-## 110. Reading of the Heart by Signs He
+## 110. Reading of the Heart by Signs
 [110.1091]
 இருநோக்கு இவளுண்கண் உள்ளது ஒருநோக்கு
 நோய்நோக்கொன் றந்நோய் மருந்து.
@@ -4513,7 +4513,7 @@
 கண்ணொடு கண்இணை நோக்கொக்கின் வாய்ச்சொற்கள்
 என்ன பயனும் இல.
 
-## 111. In Praise of the Union He
+## 111. In Praise of the Union
 [111.1101]
 கண்டுகேட்டு உண்டுயிர்த்து உற்றறியும் ஐம்புலனும்
 ஒண்தொடி கண்ணே உள.
@@ -4554,7 +4554,7 @@
 அறிதோறு அறியாமை கண்டற்றால் காமம்
 செறிதோறும் சேயிழை மாட்டு.
 
-## 112. In Praise of Her Beauty He
+## 112. In Praise of Her Beauty
 [112.1111]
 நன்னீரை வாழி அனிச்சமே நின்னினும்
 மென்னீரள் யாம்வீழ் பவள்.
@@ -4595,7 +4595,7 @@
 அனிச்சமும் அன்னத்தின் தூவியும் மாதர்
 அடிக்கு நெருஞ்சிப் பழம்.
 
-## 113. The Glorification of Love He
+## 113. The Glorification of Love
 [113.1121]
 பாலொடு தேன்கலந் தற்றே பணிமொழி
 வாலெயிறு ஊறிய நீர்.
@@ -4636,7 +4636,7 @@
 உவந்துறைவர் உள்ளத்துள் என்றும் இகந்துறைவர்
 ஏதிலர் என்னும்இவ் வூர்.
 
-## 114. Overpassing the Bounds of Decorum He
+## 114. Overpassing the Bounds of Decorum
 [114.1131]
 காமம் உழந்து வருந்தினார்க்கு ஏமம்
 மடலல்லது இல்லை வலி.
@@ -4677,7 +4677,7 @@
 யாம்கண்ணின் காண நகுப அறிவில்லார்
 யாம்பட்ட தாம்படா ஆறு.
 
-## 115. The Public Humour He
+## 115. The Public Humour
 [115.1141]
 அலரெழ ஆருயிர் நிற்கும் அதனைப்
 பலரறியார் பாக்கியத் தால்.
@@ -4718,7 +4718,7 @@
 தாம்வேண்டின் நல்குவர் காதலர் யாம்வேண்டும்
 கெளவை எடுக்கும்இவ் வூர்.
 
-## 116. The Pangs of Separation She
+## 116. The Pangs of Separation
 [116.1151]
 செல்லாமை உண்டேல் எனக்குரை மற்றுநின்
 வல்வரவு வாழ்வார்க் குரை.
@@ -4759,7 +4759,7 @@
 அரிதாற்றி அல்லல்நோய் நீக்கிப் பிரிவாற்றிப்
 பின்இருந்து வாழ்வார் பலர்.
 
-## 117. Bewailing the Pangs of Separation and Pining Away She
+## 117. Bewailing the Pangs of Separation and Pining Away
 [117.1161]
 மறைப்பேன்மன் யானிஃதோ நோயை இறைப்பவர்க்கு
 ஊற்றுநீர் போல மிகும்.
@@ -4923,7 +4923,7 @@
 உறாஅர்க்கு உறுநோய் உரைப்பாய் கடலைச்
 செறாஅஅய் வாழிய நெஞ்சு.
 
-## 121. Sighing for the Absent One He
+## 121. Sighing for the Absent One
 [121.1201]
 உள்ளினும் தீராப் பெருமகிழ் செய்தலால்
 கள்ளினும் காமம் இனிது.
@@ -4964,7 +4964,7 @@
 விடாஅது சென்றாரைக் கண்ணினால் காணப்
 படாஅதி வாழி மதி.
 
-## 122. In Praise of the Dream-state She
+## 122. In Praise of the Dream-state
 [122.1211]
 காதலர் தூதொடு வந்த கனவினுக்கு
 யாதுசெய் வேன்கொல் விருந்து.
@@ -5005,7 +5005,7 @@
 நனவினால் நம்நீத்தார் என்பர் கனவினால்
 காணார்கொல் இவ்வூ ரவர்.
 
-## 123. Sighing At the Approach of Evening She
+## 123. Sighing At the Approach of Evening
 [123.1221]
 மாலையோ அல்லை மணந்தார் உயிருண்ணும்
 வேலைநீ வாழி பொழுது.
@@ -5046,7 +5046,7 @@
 பொருள்மாலை யாளரை உள்ளி மருள்மாலை
 மாயும்என் மாயா உயிர்.
 
-## 124. The Wasting Away of Her Lovely Form She
+## 124. The Wasting Away of Her Lovely Form
 [124.1231]
 சிறுமை நமக்கொழியச் சேட்சென்றார் உள்ளி
 நறுமலர் நாணின கண்.
@@ -5087,7 +5087,7 @@
 கண்ணின் பசப்போ பருவரல் எய்தின்றே
 ஒண்ணுதல் செய்தது கண்டு.
 
-## 125. Addressing One's Own Heart She
+## 125. Addressing One's Own Heart
 [125.1241]
 நினைத்தொன்று சொல்லாயோ நெஞ்சே எனைத்தொன்றும்
 எவ்வநோய் தீர்க்கும் மருந்து.
@@ -5169,7 +5169,7 @@
 நிணந்தீயில் இட்டன்ன நெஞ்சினார்க்கு உண்டோ
 புணர்ந்தூடி நிற்பேம் எனல்.
 
-## 127. The Longing of the Lovers to Meet She
+## 127. The Longing of the Lovers to Meet
 [127.1261]
 வாளற்றுப் புற்கென்ற கண்ணும் அவர்சென்ற
 நாளொற்றித் தேய்ந்த விரல்.
@@ -5210,7 +5210,7 @@
 பெறின்என்னாம் பெற்றக்கால் என்னாம் உறினென்னாம்
 உள்ளம் உடைந்துக்கக் கால்.
 
-## 128. Reading the Secret Thought He
+## 128. Reading the Secret Thought
 [128.1271]
 கரப்பினுங் கையிகந் தொல்லாநின் உண்கண்
 உரைக்கல் உறுவதொன் றுண்டு.
@@ -5251,7 +5251,7 @@
 பெண்ணினால் பெண்மை உடைத்தென்ப கண்ணினால்
 காமநோய் சொல்லி இரவு.
 
-## 129. The Impatience of the Pair to Fly to Each Other's Arms She
+## 129. The Impatience of the Pair to Fly to Each Other's Arms
 [129.1281]
 உள்ளக் களித்தலும் காண மகிழ்தலும்
 கள்ளுக்கில் காமத்திற் குண்டு.
@@ -5292,7 +5292,7 @@
 கண்ணின் துனித்தே கலங்கினாள் புல்லுதல்
 என்னினும் தான்விதுப் புற்று.
 
-## 130. Chiding the Heart She
+## 130. Chiding the Heart
 [130.1291]
 அவர்நெஞ்சு அவர்க்காதல் கண்டும் எவன்நெஞ்சே
 நீஎமக்கு ஆகா தது.
@@ -5374,7 +5374,7 @@
 ஊடல் உணங்க விடுவாரோடு என்நெஞ்சம்
 கூடுவேம் என்பது அவா.
 
-## 132. The Finesses of Bouderie She
+## 132. The Finesses of Bouderie
 [132.1311]
 பெண்ணியலார் எல்லாரும் கண்ணின் பொதுஉண்பர்
 நண்ணேன் பரத்தநின் மார்பு.
@@ -5415,7 +5415,7 @@
 நினைத்திருந்து நோக்கினும் காயும் அனைத்துநீர்
 யாருள்ளி நோக்கினீர் என்று.
 
-## 133. The Charm of Bouderie She
+## 133. The Charm of Bouderie
 [133.1321]
 இல்லை தவறவர்க்கு ஆயினும் ஊடுதல்
 வல்லது அவர்அளிக்கு மாறு.
