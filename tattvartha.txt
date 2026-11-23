@@ -1,7 +1,7 @@
 # sa.wikisource — तत्त्वार्थसूत्रम् (Digambara recension)
 # Source: https://sa.wikisource.org/wiki/तत्त्वार्थसूत्रम्
 # Licence: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-# Changes by Tattvam: Divided into numbered verses for display. Sūtras 3.27–29 are supplied from the Digambara text printed in Sacred Books of the Jainas II; the chapter 7 heading and colophon are omitted; chapter 8 de-duplicated and realigned with its translation (2026-08-18). Read against Pt. Kailashchandra Shastri's print (Jain Vidyapeeth, Sagar, 2017): 178 places in 131 sūtras corrected where our transcription had a form that is not the word (a dropped or wrong letter, a colon for the visarga, a truncated sūtra) and the print, in both its commentary and its sūtra-only text, has the word. Sūtra 7.6 takes the print's reading सधर्मा for our transcription's सद्धर्मा.
+# Changes by Tattvam: Divided into numbered verses for display. Sūtras 3.27–29 are supplied from the Digambara text printed in Sacred Books of the Jainas II; the chapter 7 heading and colophon are omitted; chapter 8 de-duplicated and realigned with its translation (2026-08-18). Read against Pt. Kailashchandra Shastri's print (Jain Vidyapeeth, Sagar, 2017): 178 places in 131 sūtras corrected where our transcription had a form that is not the word (a dropped or wrong letter, a colon for the visarga, a truncated sūtra) and the print, in both its commentary and its sūtra-only text, has the word. Sūtra 7.6 takes the print's reading सधर्मा for our transcription's सद्धर्मा. On 23 November 2026 9 sūtras were corrected to the reading of both J. L. Jaini's 1920 print and Kailashchandra's 2017 print, keeping our own spelling: 1.8 बहुत्त्वैश्च → बहुत्वैश्च; 1.20 द्वयनेक → द्व्यनेक; 2.35 संम्मूर्च्छनम् → सम्मूर्च्छनम्; 2.43 भाज्यानियुगपदेकस्मिन्ना चतुर्भ्यः → भाज्यानि युगपदेकस्याचतुर्भ्यः; 4.25 व ह्न्यरुण → वह्न्यरुण and व्यावाध → व्याबाध; 4.28 हीनमिताः → हीनमिता; 5.38 गुणपर्ययवत् द्रव्यम् → गुणपर्ययवद् द्रव्यम्; 9.6 मार्दवार्जवसत्य शौचसंयम → मार्दवार्जवशौच सत्यसंयम; 9.46 स्नातकाः निर्ग्रन्थाः → स्नातका निर्ग्रन्थाः.
 
 ## 1. Knowledge
 [1.1]
@@ -26,7 +26,7 @@
 निर्देश-स्वामित्व-साधनाधिकरण-स्थिति-विधानतः
 
 [1.8]
-सत्संख्याक्षेत्र स्पर्शनकालान्तर भावाल्पबहुत्त्वैश्च
+सत्संख्याक्षेत्र स्पर्शनकालान्तर भावाल्पबहुत्वैश्च
 
 [1.9]
 मति-श्रुतावधि-मनःपर्यय-केवलानि ज्ञानम्
@@ -62,7 +62,7 @@
 न चक्षुरनिन्द्रियाभ्याम्
 
 [1.20]
-श्रुतं मतिपूर्वं द्वयनेक-द्वादशभेदम्
+श्रुतं मतिपूर्वं द्व्यनेक-द्वादशभेदम्
 
 [1.21]
 भवप्रत्ययोऽवधिर्देवनारकाणाम्
@@ -207,7 +207,7 @@
 देवनारकाणामुपपादः
 
 [2.35]
-शेषाणां संम्मूर्च्छनम्
+शेषाणां सम्मूर्च्छनम्
 
 [2.36]
 औदारिक-वैक्रियिकाहारक-तैजस-कार्मणानि शरीराणि
@@ -231,7 +231,7 @@
 सर्वस्य
 
 [2.43]
-तदादीनि भाज्यानियुगपदेकस्मिन्ना चतुर्भ्यः
+तदादीनि भाज्यानि युगपदेकस्याचतुर्भ्यः
 
 [2.44]
 निरुपभोगमन्त्यम्
@@ -455,7 +455,7 @@
 ब्रह्मलोकालया लौकान्तिकाः
 
 [4.25]
-सारस्वतादित्य व ह्न्यरुणगर्दतोयतुषिताव्यावाधारिष्टाश्च
+सारस्वतादित्य वह्न्यरुणगर्दतोयतुषिताव्याबाधारिष्टाश्च
 
 [4.26]
 विजयादिषु द्विचरमाः
@@ -464,7 +464,7 @@
 औपपादिक-मनुष्येभ्यः शेषास्तिर्यग्योनयः
 
 [4.28]
-स्थितिरसुरनागसुपर्णद्वीपशेषाणां सागरोपमत्रिपल्योपमार्द्ध हीनमिताः
+स्थितिरसुरनागसुपर्णद्वीपशेषाणां सागरोपमत्रिपल्योपमार्द्ध हीनमिता
 
 [4.29]
 सौधर्मैशानयोः सागरोपमेऽधिके
@@ -621,7 +621,7 @@
 बन्धेऽधिकौ पारिणामिकौ च
 
 [5.38]
-गुणपर्ययवत् द्रव्यम्
+गुणपर्ययवद् द्रव्यम्
 
 [5.39]
 कालश्च
@@ -931,7 +931,7 @@
 ईर्या-भाषैषणादान-निक्षेपोत्सर्गाः समितयः
 
 [9.6]
-उत्तमक्षमामार्दवार्जवसत्य शौचसंयम तपस्त्यागा किञ्चन्य ब्रह्मचर्याणि धर्मः
+उत्तमक्षमामार्दवार्जवशौच सत्यसंयम तपस्त्यागा किञ्चन्य ब्रह्मचर्याणि धर्मः
 
 [9.7]
 अनित्याशरण संसारैकत्वान्यत्वाशुच्यास्रवसंवर निर्जरा लोकबोधि दुर्लभ धर्मस्वाख्याततत्त्वानुचिन्तनमनुप्रेक्षाः
@@ -1051,7 +1051,7 @@
 सम्यग्दृष्टि-श्रावक-विरतानन्तवियोजक-दर्शनमोहक्षपकोपशमकोपशान्तमोहक्षपक-क्षीणमोह-जिनाः क्रमशोऽसंख्येयगुणनिर्जराः
 
 [9.46]
-पुलाकबकुशकुशीलनिर्ग्रन्थस्नातकाः निर्ग्रन्थाः
+पुलाकबकुशकुशीलनिर्ग्रन्थस्नातका निर्ग्रन्थाः
 
 [9.47]
 संयम श्रुतप्रतिसेवना तीर्थलिंगलेश्योपपादस्थान विकल्पतः साध्याः
