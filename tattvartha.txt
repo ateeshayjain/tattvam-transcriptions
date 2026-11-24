@@ -1,7 +1,7 @@
 # sa.wikisource — तत्त्वार्थसूत्रम् (Digambara recension)
 # Source: https://sa.wikisource.org/wiki/तत्त्वार्थसूत्रम्
 # Licence: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-# Changes by Tattvam: Divided into numbered verses for display. Sūtras 3.27–29 are supplied from the Digambara text printed in Sacred Books of the Jainas II; the chapter 7 heading and colophon are omitted; chapter 8 de-duplicated and realigned with its translation (2026-08-18). Read against Pt. Kailashchandra Shastri's print (Jain Vidyapeeth, Sagar, 2017): 178 places in 131 sūtras corrected where our transcription had a form that is not the word (a dropped or wrong letter, a colon for the visarga, a truncated sūtra) and the print, in both its commentary and its sūtra-only text, has the word. Sūtra 7.6 takes the print's reading सधर्मा for our transcription's सद्धर्मा. On 23 November 2026 9 sūtras were corrected to the reading of both J. L. Jaini's 1920 print and Kailashchandra's 2017 print, keeping our own spelling: 1.8 बहुत्त्वैश्च → बहुत्वैश्च; 1.20 द्वयनेक → द्व्यनेक; 2.35 संम्मूर्च्छनम् → सम्मूर्च्छनम्; 2.43 भाज्यानियुगपदेकस्मिन्ना चतुर्भ्यः → भाज्यानि युगपदेकस्याचतुर्भ्यः; 4.25 व ह्न्यरुण → वह्न्यरुण and व्यावाध → व्याबाध; 4.28 हीनमिताः → हीनमिता; 5.38 गुणपर्ययवत् द्रव्यम् → गुणपर्ययवद् द्रव्यम्; 9.6 मार्दवार्जवसत्य शौचसंयम → मार्दवार्जवशौच सत्यसंयम; 9.46 स्नातकाः निर्ग्रन्थाः → स्नातका निर्ग्रन्थाः.
+# Changes by Tattvam: Divided into numbered verses for display. Sūtras 3.27–29 are supplied from the Digambara text printed in Sacred Books of the Jainas II; the chapter 7 heading and colophon are omitted; chapter 8 de-duplicated and realigned with its translation (2026-08-18). Read against Pt. Kailashchandra Shastri's print (Jain Vidyapeeth, Sagar, 2017): 178 places in 131 sūtras corrected where our transcription had a form that is not the word (a dropped or wrong letter, a colon for the visarga, a truncated sūtra) and the print, in both its commentary and its sūtra-only text, has the word. Sūtra 7.6 takes the print's reading सधर्मा for our transcription's सद्धर्मा. On 23 November 2026 10 sūtras were corrected to the reading of both J. L. Jaini's 1920 print and Kailashchandra's 2017 print, keeping our own spelling: 1.8 बहुत्त्वैश्च → बहुत्वैश्च; 1.20 द्वयनेक → द्व्यनेक; 2.35 संम्मूर्च्छनम् → सम्मूर्च्छनम्; 2.43 भाज्यानियुगपदेकस्मिन्ना चतुर्भ्यः → भाज्यानि युगपदेकस्याचतुर्भ्यः; 4.25 व ह्न्यरुण → वह्न्यरुण and व्यावाध → व्याबाध; 4.28 हीनमिताः → हीनमिता; 5.38 गुणपर्ययवत् द्रव्यम् → गुणपर्ययवद् द्रव्यम्; 8.18 मुहूर्त्ता → मुहूर्ता; 9.6 मार्दवार्जवसत्य शौचसंयम → मार्दवार्जवशौच सत्यसंयम; 9.46 स्नातकाः निर्ग्रन्थाः → स्नातका निर्ग्रन्थाः.
 
 ## 1. Knowledge
 [1.1]
@@ -888,7 +888,7 @@
 त्रयस्त्रिंशत्सागरोपमाण्यायुषः
 
 [8.18]
-अपरा द्वादश मुहूर्त्ता वेदनीयस्य
+अपरा द्वादश मुहूर्ता वेदनीयस्य
 
 [8.19]
 नामगोत्रयोरष्टौ

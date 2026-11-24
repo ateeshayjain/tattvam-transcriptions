@@ -1,7 +1,7 @@
 # sa.wikisource — योगसूत्रम् (sūtrapāṭha, without bhāṣya)
 # Source: https://sa.wikisource.org/wiki/योगसूत्रम्
 # Licence: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-# Changes by Tattvam: Divided into numbered verses for display. Sūtra 1.15 is supplied from another Wikisource page, योगसूत्राणि (भाष्यसहितम्). Two errors that are on Wikisource itself are corrected to the standard sūtrapāṭha (and the English, which is singular): 1.9 विकल्पाः → विकल्पः, and 1.48 र्तंभरा → ऋतम्भरा. Stray full stops and commas inside sūtras (16), double spaces and some run-together words are cleaned, and उपेक्षणां → उपेक्षाणां (1.33). The English is proofread against the 1912 New York printing it follows (Quarterly Book Department; archive.org yogasutrasofpata00pata_0): letters and words damaged in the Wikisource transcription are restored, nothing retranslated. Four places restored to the sūtrapāṭha as printed (Ānandāśrama Sanskrit Series 47, 1919, and Rāma Prasād, 1912): 3.18, 4.17, 4.24 and 4.32.
+# Changes by Tattvam: Divided into numbered verses for display. Sūtra 1.15 is supplied from another Wikisource page, योगसूत्राणि (भाष्यसहितम्). Two errors that are on Wikisource itself are corrected to the standard sūtrapāṭha (and the English, which is singular): 1.9 विकल्पाः → विकल्पः, and 1.48 र्तंभरा → ऋतम्भरा. Stray full stops and commas inside sūtras (16), double spaces and some run-together words are cleaned, and उपेक्षणां → उपेक्षाणां (1.33). The English is proofread against the 1912 New York printing it follows (Quarterly Book Department; archive.org yogasutrasofpata00pata_0): letters and words damaged in the Wikisource transcription are restored, nothing retranslated. Four places restored to the sūtrapāṭha as printed (Ānandāśrama Sanskrit Series 47, 1919, and Rāma Prasād, 1912): 3.18, 4.17, 4.24 and 4.32 (at 4.24 only Ānandāśrama; Rāma Prasād reads चित्तमपि). In November 2026 four junctions our transcription left unjoined were joined as both prints (Ānandāśrama Sanskrit Series 47, 1919, and Rāma Prasād, 1912) join them, keeping our own spelling: 1.5 क्लिष्टा अक्लिष्टाः → क्लिष्टाक्लिष्टाः; 1.38 ज्ञानालम्बनम् वा → ज्ञानालम्बनं वा; 3.17 संकरः तत् → संकरस्तत्; 4.17 पेक्षित्वात् चित्तस्य → पेक्षित्वाच्चित्तस्य.
 
 ## 1. समाधिपादः
 [1.1]
@@ -17,7 +17,7 @@
 वृत्तिसारूप्यं इतरत्र
 
 [1.5]
-वृत्तयः पञ्चतय्यः क्लिष्टा अक्लिष्टाः
+वृत्तयः पञ्चतय्यः क्लिष्टाक्लिष्टाः
 
 [1.6]
 प्रमाणविपर्ययविकल्पनिद्रास्मृतयः
@@ -116,7 +116,7 @@
 वीतरागविषयं वा चित्तं
 
 [1.38]
-स्वप्ननिद्राज्ञानालम्बनम् वा
+स्वप्ननिद्राज्ञानालम्बनं वा
 
 [1.39]
 यथाभिमतध्यानाद्वा
@@ -373,7 +373,7 @@
 परिणामत्रयसंयमादतीतानागतज्ञानं
 
 [3.17]
-शब्दार्थप्रत्ययानां इतरेतराध्यासात्संकरः तत्प्रविभागसंयमात्सर्वभूतरुतज्ञानं
+शब्दार्थप्रत्ययानां इतरेतराध्यासात्संकरस्तत्प्रविभागसंयमात्सर्वभूतरुतज्ञानं
 
 [3.18]
 संस्कारसाक्षात्करणात्पूर्वजातिज्ञानं
@@ -539,7 +539,7 @@
 न चैकचित्ततन्त्रं वस्तु तदप्रमाणकं तदा किं स्यात्
 
 [4.17]
-तदुपरागापेक्षित्वात् चित्तस्य वस्तु ज्ञाताज्ञातं
+तदुपरागापेक्षित्वाच्चित्तस्य वस्तु ज्ञाताज्ञातं
 
 [4.18]
 सदा ज्ञाताश्चित्तवृत्तयस् तत्प्रभोः पुरुषस्यापरिणामित्वात्
